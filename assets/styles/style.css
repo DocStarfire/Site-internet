@@ -137,6 +137,7 @@ body {
     align-items: center;
     justify-content: center;
     transition: background-color 0.3s ease;
+    min-width: 46px;
 }
 
 .garantee .item:hover .icon {
@@ -590,4 +591,8 @@ h1 {
     .text {
         text-align: left;
     }
+}
+
+.p {
+    text-align: center;
 }
