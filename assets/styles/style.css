@@ -596,3 +596,7 @@ h1 {
 .p {
     text-align: center;
 }
+
+.texte-reduit {
+    min-width: 30px;
+}
