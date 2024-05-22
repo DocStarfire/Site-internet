@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -12,6 +11,7 @@ body {
     background: #212529;
     max-width: 3000px;
     margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
 }
 
 .navbar {
