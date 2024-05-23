@@ -591,10 +591,10 @@ h1 {
     .text {
         text-align: left;
     }
-}
 
-.p {
-    text-align: center;
+    .garantee .item .info p {
+        text-align: right;
+    }
 }
 
 .texte-reduit {
